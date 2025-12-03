@@ -1,0 +1,102 @@
+commit f10ed0b60bd6a744c643c9916ba133685f69a920
+Author: inigoiza <9406701@alumnos.ufv.es>
+Date:   Wed Dec 3 08:46:58 2025 +0100
+
+    Remove broken submodule my_first_web_2025
+
+commit abf006a3f300d8afe029fa4e145ab51207945333
+Author: inigoiza <9406701@alumnos.ufv.es>
+Date:   Wed Dec 3 08:43:32 2025 +0100
+
+    conflict resolution
+
+commit bc3594b0ca1371035758a432ad864946b30929e1
+Author: inigoiza <9406701@alumnos.ufv.es>
+Date:   Wed Dec 3 08:40:22 2025 +0100
+
+    conflict resolution
+
+commit c609b535c218d064faec00cbccefa1347d14a5e0
+Author: inigoiza <9406701@alumnos.ufv.es>
+Date:   Wed Dec 3 08:33:34 2025 +0100
+
+    moved it to docs due to an error in the deploymentç
+
+commit ed0a33519873b7a6ca9c9ad69aad7e302c1ecf75
+Author: inigoiza <9406701@alumnos.ufv.es>
+Date:   Mon Dec 1 11:04:38 2025 +0100
+
+    Updated the README file
+
+commit 9a3138510b85dcb3e201960b8c13a94577fb7434
+Author: inigoiza <9406701@alumnos.ufv.es>
+Date:   Mon Dec 1 11:02:38 2025 +0100
+
+    Inserted some Css in styles
+
+commit 2f3dfd3a0b7a870e4ce4f51aa7af099f9ea444a8
+Author: inigoiza <9406701@alumnos.ufv.es>
+Date:   Mon Dec 1 10:53:41 2025 +0100
+
+    fixed a mistake in the html file
+
+commit 460f251dd6aa1394960aa6c33a0f90634c53e06e
+Author: inigoiza <9406701@alumnos.ufv.es>
+Date:   Mon Dec 1 10:46:31 2025 +0100
+
+    Added the images to the folder
+
+commit b9b1502042bf2ef68d19fd432816c91db2de99ea
+Author: inigo-iza-alonso <9406701@alumnos.ufv.es>
+Date:   Mon Dec 1 10:45:00 2025 +0100
+
+    Fix indentation and formatting in index.html
+
+commit 0fbe668a929ad4ac96074c84231388a7a26bb943
+Author: inigoiza <9406701@alumnos.ufv.es>
+Date:   Mon Dec 1 10:44:06 2025 +0100
+
+    Added the images to the html file
+
+commit 6f2f398d4eb9cb5d566e75b6488a7c8051440d2e
+Author: inigoiza <9406701@alumnos.ufv.es>
+Date:   Mon Dec 1 10:28:17 2025 +0100
+
+    updated the README file
+
+commit 258576addc5bd3d760dee7883544de1583f486be
+Author: inigoiza <9406701@alumnos.ufv.es>
+Date:   Mon Dec 1 10:25:54 2025 +0100
+
+    added the css styles in the style section
+
+commit 178d31bbcda36f11cda55e5e713fc8d64df095e7
+Author: inigoiza <9406701@alumnos.ufv.es>
+Date:   Mon Dec 1 09:53:12 2025 +0100
+
+    Edited the index html file inserting text to add the header and footer
+
+commit d8c61e37f6c1a8d666db6a2100922ea5d8171564
+Author: inigoiza <9406701@alumnos.ufv.es>
+Date:   Mon Dec 1 09:41:50 2025 +0100
+
+    Adding basic structure in html file
+
+commit 6f0f83061a333e8f625cfc9aaa179361700800e8
+Merge: b7c5087 0bebce7
+Author: inigoiza <9406701@alumnos.ufv.es>
+Date:   Mon Dec 1 09:38:32 2025 +0100
+
+    Merge remoto + local
+
+commit b7c5087c3358f7c9711f4b0a5feebcb5f3942095
+Author: inigoiza <9406701@alumnos.ufv.es>
+Date:   Mon Dec 1 09:32:29 2025 +0100
+
+    prueba
+
+commit 0bebce78a4f0212c5f21e5fea6e11c5abc9faa59
+Author: inigo-iza-alonso <9406701@alumnos.ufv.es>
+Date:   Mon Dec 1 09:17:41 2025 +0100
+
+    Initial commit
